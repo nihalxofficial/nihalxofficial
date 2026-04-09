@@ -33,7 +33,7 @@
 
 
 ```ts
-const maruf = {
+const nihal = {
   name        : "Md. Nihal Uddin",
   role        : "MERN Stack Developer",
   location    : "Bangladesh 🇧🇩",
