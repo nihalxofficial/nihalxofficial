@@ -1,4 +1,4 @@
-![banner]([https://github.com/user-attachments/assets/53febff2-d9ba-4ca4-9cc1-1f4c97fb441c](https://github.com/user-attachments/assets/91ee8c18-22b8-4fea-8311-713cf1bcdd03))
+![banner](https://github.com/user-attachments/assets/ef42001c-b44a-4f73-b557-3dfea6384cd8)
 <svg width="900" height="280" viewBox="0 0 900 280" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <!-- Deep dark background gradient -->
