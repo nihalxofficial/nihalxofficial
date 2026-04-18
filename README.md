@@ -1,4 +1,6 @@
-![banner](https://github.com/user-attachments/assets/ef42001c-b44a-4f73-b557-3dfea6384cd8)
+<img width="1000" height="300" alt="github_banner_nihal" src="https://github.com/user-attachments/assets/0c5f79c3-2c13-4d3b-98a6-7956948a44c1" />
+
+
 <svg width="900" height="280" viewBox="0 0 900 280" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <!-- Deep dark background gradient -->
