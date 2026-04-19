@@ -1,4 +1,4 @@
-<img width="920" height="360" alt="banner_4_constellation_large" src="https://github.com/user-attachments/assets/dd9f4cb2-26e8-4a6a-8f57-98055ea0a03c" />
+<img width="900" height="300" alt="banner_4_constellation_large" src="https://github.com/user-attachments/assets/dd9f4cb2-26e8-4a6a-8f57-98055ea0a03c" />
 
 
 <svg width="900" height="280" viewBox="0 0 900 280" xmlns="http://www.w3.org/2000/svg">
