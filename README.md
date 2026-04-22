@@ -35,11 +35,11 @@
 
 ```ts
 const nihal = {
-  name        : "Md. Nihal Uddin",
+  name        : "Md. Nihal Uddin Bijoy",
   role        : "MERN Stack Developer",
   location    : "Bangladesh 🇧🇩",
   focus       : ["Scalable Web Apps", "Clean Architecture",  "Building Real Projects", "Improving UX"],
-  currently   : ["React", "React Router", "Next.js"],
+  currently   : ["Next.js", "Authentication", "Hero.UI"],
   collaborate : "Open Source & Beginner-Friendly Projects 🤝,
   funFact     :  "I enjoy solving problems and turning ideas into real applications 🚀",
   ask_me_about: ["React", "Node.js", "MongoDB", "Express", "REST APIs"],
