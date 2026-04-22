@@ -39,7 +39,7 @@ const nihal = {
   role        : "MERN Stack Developer",
   location    : "Bangladesh 🇧🇩",
   focus       : ["Scalable Web Apps", "Clean Architecture",  "Building Real Projects", "Improving UX"],
-  currently   : ["Next.js", "Authentication", "Hero.UI"],
+  currently   : ["Next.js", "Authentication", "HeroUI"],
   collaborate : "Open Source & Beginner-Friendly Projects 🤝,
   funFact     :  "I enjoy solving problems and turning ideas into real applications 🚀",
   ask_me_about: ["React", "Next.js", "Node.js", "MongoDB", "Express", "REST APIs"],
@@ -54,9 +54,8 @@ const nihal = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-nihal-uddin/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/nihalxofficial)
-[![GitHub](https://img.shields.io/badge/GitHub-%23171515.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nihalxofficial)&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdnihaluddinbijoy@gmail.com)&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdnihaluddinbijoy@gmail.com)&nbsp;
 
 </div>
 
