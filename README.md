@@ -166,9 +166,7 @@ const nihal = {
 
 ### 💬 Dev Philosophy
 
-*"First, solve the problem. Then, write the code.
-Always maintain the Dry concept
-"*
+"Simplicity is the Ultimate Sophistication."
 
 <br/>
 
