@@ -39,7 +39,7 @@ const nihal = {
   role        : "MERN Stack Developer",
   location    : "Bangladesh 🇧🇩",
   focus       : ["Scalable Web Apps", "Clean Architecture",  "Building Real Projects", "Improving UX"],
-  currently   : ["Next.js", "Authentication", "Mongo-DB", "HeroUI"],
+  currently   : ["Next.js", "Authentication", "DSA", "Projects"],
   collaborate : "Open Source & Real-World Projects 🤝",
   funFact     :  "I enjoy solving problems and turning ideas into real applications 🚀",
   ask_me_about: ["React", "Next.js", "Node.js", "MongoDB", "Express", "REST APIs"],
