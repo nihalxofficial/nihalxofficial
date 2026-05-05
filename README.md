@@ -1,7 +1,7 @@
 <img width="1360" height="480" alt="banner_4_constellation_2x_enhanced" src="https://github.com/user-attachments/assets/cfb73335-0895-40cf-a44e-d04e318a870b" />
 
 
-<svg width="900" height="280" viewBox="0 0 900 280" xmlns="http://www.w3.org/2000/svg">
+<svg width="1300" height="300" viewBox="0 0 900 280" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <!-- Deep dark background gradient -->
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
