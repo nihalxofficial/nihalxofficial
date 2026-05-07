@@ -38,7 +38,7 @@ const nihal = {
   name        : "Md. Nihal Uddin Bijoy",
   role        : "MERN Stack Developer",
   location    : "Bangladesh 🇧🇩",
-  focus       : ["Scalable Web Apps", "Clean Architecture",  "Building Real Projects", "Improving UX"],
+  focus       : ["Scalable Web Apps", "Clean Architecture",  "Building Real Projects"],
   currently   : ["Express.js", "MongoDB", "JWT", "DSA"],
   collaborate : "Open Source & Real-World Projects 🤝",
   funFact     :  "I enjoy solving problems and turning ideas into real applications 🚀",
