@@ -105,8 +105,11 @@ const nihal = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nihalxofficial&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d9ff&icon_color=7c3aed&text_color=94a3b8" />
+<!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nihalxofficial&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d9ff&icon_color=7c3aed&text_color=94a3b8" /> -->
+<!-- <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nihalxofficial&theme=tokyonight&bg_color=0d1117&border_color=00d9ff&title_color=00d9ff&text_color=94a3b8&icon_color=7c3aed" /> -->
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nihalxofficial&theme=tokyonight&bg_color=010409&border_color=1a1f26&title_color=00d9ff&text_color=4a5568&icon_color=7c3aed" />
 <img width="49%" src="https://streak-stats.demolab.com/?user=nihalxofficial&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=7c3aed&fire=00d9ff&currStreakLabel=00d9ff&sideLabels=94a3b8" />
+
 
 </div>
 
