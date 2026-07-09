@@ -39,7 +39,6 @@ const nihal = {
   role        : "MERN Stack Developer",
   location    : "Bangladesh 🇧🇩",
   focus       : ["Scalable Web Apps", "Clean Architecture",  "Building Real Projects"],
-  currently   : ["Typescript", "PostgreSql",  "DSA", "System Design"],
   collaborate : "Open Source & Real-World Projects 🤝",
   funFact     :  "I enjoy solving problems and turning ideas into real applications 🚀",
   ask_me_about: ["React", "Next.js", "Node.js", "MongoDB", "Express", "REST APIs"],
@@ -47,6 +46,14 @@ const nihal = {
 };
 ```
 
+## 🎯 Current Activities
+
+- 🌐 Exploring advanced Next.js and TypeScript.
+- 🏗️ Building production-ready Full-Stack applications.
+- 🗄️ Learning PostgreSQL, Docker and scalable backend architecture.
+- 🧠 Practicing Data Structures & Algorithms.
+- 🚀 Working on real-world projects that solve practical problems.
+  
 ---
 
 ## 🌐 Connect With Me
