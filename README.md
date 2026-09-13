@@ -51,7 +51,7 @@ const nihal = {
 - 🌐 Exploring advanced Next.js and TypeScript.
 - 🏗️ Building production-ready Full-Stack applications.
 - 🗄️ Learning PostgreSQL, Docker and scalable backend architecture.
-- 🧠 Practicing Data Structures & Algorithms.
+- 🧠 Practicing Data Structures & Algorithms and practicing on Leetcode.
 - 🚀 Working on real-world projects that solve practical problems.
   
 ---
